@@ -37,9 +37,9 @@
 ## 其它
 
 - BIOS更新：
--  [Vostro_3668_3669_3268_3667_3660_3267_1.14.0.exe](./BIOS/Vostro_3668_3669_3268_3667_3660_3267_1.14.0.exe) 
+  - [Vostro_3668_3669_3268_3667_3660_3267_1.14.0.exe](./BIOS/Vostro_3668_3669_3268_3667_3660_3267_1.14.0.exe) 
 - 镜像下载
-- [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
+  - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
 - EFI下载
 
   - [Releases](./releases)
