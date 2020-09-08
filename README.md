@@ -42,7 +42,7 @@
   - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
 - EFI下载
 
-  - [Releases](./releases)
+  - [Releases](https://github.com/daliansky/Dell_Vostro_3669_Hackintosh/releases/tag/v1.0.0)
 - 更新日志  
 
   - [Changelog](Changelog.md)
